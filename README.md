@@ -16,9 +16,9 @@
 Here are some of the projects I have worked on:
 
 - [Just-Chatting](https://github.com/hemangahuja/just_chatting): A room based chatting application built using NextJS and Pusher.
-- [Cheeku](https://github.com/hemangahuja/Cheeku) A load balancer that implements multiple algorithm, can be used as a reverse proxy on top of any web app.
-- [Bitua](https://github.com/hemangahuja/bitua_flutter): A mock cryptocurrency wallet built using Flutter and Firebase
-- [Pyjamas](https://github.com/hemangahuja/pyjamas_forms): A secure full stack web form app generator using Flask and Javascript
+- [Cheeku](https://github.com/hemangahuja/Cheeku): A load balancer that implements multiple algorithm, can be used as a reverse proxy on top of any web app.
+- [Bitua](https://github.com/hemangahuja/bitua_flutter): A mock cryptocurrency wallet built using Flutter and Firebase.
+- [Pyjamas](https://github.com/hemangahuja/pyjamas_forms): A secure full stack web form app generator using Flask and Javascript.
 
 ## Get in Touch
 
