@@ -1,6 +1,6 @@
 # Hey there👋
 
-### I'm Hemang, a software engineering intern at [Fidelity Investments](https://www.fidelity.com/).
+### I'm Hemang, a software engineer at [Cisco](https://www.cisco.com/).
 
 ## Welcome to my GitHub profile!
 
